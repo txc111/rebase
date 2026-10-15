@@ -1,0 +1,26 @@
+activity: none
+artifacts: []
+chronicle: []
+comprehension: 50
+constitution: 凡骨
+created_at: '2026-10-15T21:20:24+0800'
+exp: 0
+gongfa: []
+kind: player
+mood:
+  label: 茫然
+  updated: '2026-10-15'
+name: axis
+notoriety: 0
+open_loops: []
+origin: 青苔巨钟内
+realm: lianqi
+spirit: 10
+spirit_root:
+  element: fire
+  purity: 31
+  variant: mixed
+spirit_stones: 0
+stage: awakening
+titles: []
+where: qingtai-zhong
